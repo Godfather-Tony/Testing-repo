@@ -6,3 +6,7 @@ Learning Git and Github crash course
 ## Subheader
 
 Watch tutorials on Youtube.
+
+## Local Development
+
+1. Open index.html in your browser
